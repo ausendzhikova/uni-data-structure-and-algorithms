@@ -39,3 +39,5 @@ https://www.hackerrank.com/contests/12-2/challenges    / Road construction; Spee
 https://www.hackerrank.com/contests/sda-hw-13-2022/challenges / Super Hamilton; Minimal depth; The Islander / 
 
 https://www.hackerrank.com/contests/sda-2021-2022-test-7-final/challenges   / Superstition; Public administration / 
+
+https://www.hackerrank.com/contests/exam-2022-part1-sda/challenges    / Unique Rows; SDA Exam / 
