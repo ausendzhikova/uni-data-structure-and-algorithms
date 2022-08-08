@@ -2,4 +2,6 @@ This repository consist task's solutions from data structure and algorithms cour
 
 https://www.hackerrank.com/contests/sda-hw-1/challenges    / First Control Test; English lessons; Footbal team /
 
-https://www.hackerrank.com/contests/sda-hw-2/challenges    /Cheap Gifts; The good girls of the halls; Logging, monitoring,alerting; Team for millions / 
+https://www.hackerrank.com/contests/sda-hw-2/challenges    / Cheap Gifts; The good girls of the halls; Logging, monitoring,alerting; Team for millions / 
+
+https://www.hackerrank.com/contests/sda-hw-3/challenges   / Demons; Exact cube; Project topic; Weird Queries /
