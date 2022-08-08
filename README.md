@@ -35,3 +35,5 @@ https://www.hackerrank.com/contests/sda-hw-11-2021/challenges /Two sets; Tunnel 
 https://www.hackerrank.com/contests/sda-2021-2022-test-6-christmas/challenges / Counting areas; Path in Graph / 
 
 https://www.hackerrank.com/contests/12-2/challenges    / Road construction; Speeds; Questions / 
+
+https://www.hackerrank.com/contests/sda-hw-13-2022/challenges / Super Hamilton; Minimal depth; The Islander / 
