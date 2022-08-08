@@ -31,3 +31,5 @@ https://www.hackerrank.com/contests/sda-hw-10-2021/challenges / Cinema 2021; I u
 https://www.hackerrank.com/contests/sda-2021-2022-test5-8dec/challenges / Odd number; Code / 
 
 https://www.hackerrank.com/contests/sda-hw-11-2021/challenges /Two sets; Tunnel maps; Shortest path /
+
+https://www.hackerrank.com/contests/sda-2021-2022-test-6-christmas/challenges / Counting areas; Path in Graph / 
