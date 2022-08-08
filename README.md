@@ -33,3 +33,5 @@ https://www.hackerrank.com/contests/sda-2021-2022-test5-8dec/challenges / Odd nu
 https://www.hackerrank.com/contests/sda-hw-11-2021/challenges /Two sets; Tunnel maps; Shortest path /
 
 https://www.hackerrank.com/contests/sda-2021-2022-test-6-christmas/challenges / Counting areas; Path in Graph / 
+
+https://www.hackerrank.com/contests/12-2/challenges    / Road construction; Speeds; Questions / 
