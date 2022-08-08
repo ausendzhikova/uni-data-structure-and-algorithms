@@ -1,1 +1,1 @@
-# uni-data-structure-and-algorithms
+This repository consist task's solutions from data structure and algorithms course in FMI 
