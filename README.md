@@ -41,3 +41,5 @@ https://www.hackerrank.com/contests/sda-hw-13-2022/challenges / Super Hamilton; 
 https://www.hackerrank.com/contests/sda-2021-2022-test-7-final/challenges   / Superstition; Public administration / 
 
 https://www.hackerrank.com/contests/exam-2022-part1-sda/challenges    / Unique Rows; SDA Exam / 
+
+https://www.hackerrank.com/contests/exam-2022-part2-sda/challenges   / Leafs / 
