@@ -12,3 +12,4 @@ https://www.hackerrank.com/contests/sda-hw-4/challenges /ZUMA; Exam; Delete node
 
 https://www.hackerrank.com/contests/sda-hw-5/challenges  / Lectures; Bridge Battle; Sum of minimal elements / 
 
+https://www.hackerrank.com/contests/sda-2021-2021-test-2-test/challenges / Counting element; Delete element from list / 
