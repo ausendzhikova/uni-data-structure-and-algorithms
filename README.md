@@ -9,3 +9,6 @@ https://www.hackerrank.com/contests/sda-hw-3/challenges   / Demons; Exact cube; 
 https://www.hackerrank.com/contests/sda-2021-2021-test-1/challenges  / Sorting; Tournament results / 
 
 https://www.hackerrank.com/contests/sda-hw-4/challenges /ZUMA; Exam; Delete node; Insert node; Find merge point of two lists / 
+
+https://www.hackerrank.com/contests/sda-hw-5/challenges  / Lectures; Bridge Battle; Sum of minimal elements / 
+
