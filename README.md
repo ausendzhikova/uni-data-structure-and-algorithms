@@ -27,3 +27,5 @@ https://www.hackerrank.com/contests/sda-2021-2022-test4-nov30/challenges / Proce
 https://www.hackerrank.com/contests/sda-hw-9-2021/challenges / Super Mario; Weighing Animals /
 
 https://www.hackerrank.com/contests/sda-hw-10-2021/challenges / Cinema 2021; I use arch btw; New alphabet /
+
+https://www.hackerrank.com/contests/sda-2021-2022-test5-8dec/challenges / Odd number; Code / 
